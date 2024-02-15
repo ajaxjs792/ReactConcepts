@@ -1,0 +1,71 @@
+React: js library
+framework vs library 
+react vs jquery 
+virtual dom vs dom manipulation 
+can i write html inside js file 
+why use jsx: javascript extenstion
+why jsx called javascript extensions=> the html+xml is converted to functional call of js and then executed
+React.createElement(type_ele,props,children) or(react_comp,props_object,children) =>jsx =>
+dry approach?
+why to convert jsx to js?
+react vs reactdom?
+what happens if i only include reactdom n not react?
+::: the jsx cannot be written , no jsx execution can be made
+jsx attribute vs react attributes?
+react.render,reactdom.createroot,reactdom.createelement?
+render method when it is called?
+:react.render(); on change of props and states,event propogation
+root.render()?
+: render react component,jsx,html to dom node 
+minimal thing required to set react app?
+what is inside package.json?
+what are build tools?
+npm init->pacakage.json
+web pack?
+react-app->load react package to the respective directory 
+what is role of servceworker and unregister()?
+
+react elements?
+fragments ?
+states are internal to the components that give rise to key?
+DOM node? a jsx object that represent a single HTML element.
+props vs state?
+what type of value to be passed as props? object,number,array,string,comp,element,functions
+components?
+types of components? 
+difference between elements,components,instance?
+conditional rendering? if else, && , 
+stateful vs stateless component?
+:component(input: props+state)===>elements
+
+why are component named capitalised?
+::: to help JSX to distinguish between custom component & build -in component 
+React.createElement('div'.{})
+React.createElement(Model,{}) 
+
+rendering dynamic data? 
+input,textarea,button click 
+event handler,state management,hooks
+
+reconccilation?
+the process that react use to decide which part of dom elkements need re-rendering .
+
+controlled vs uncontrolled component?
+
+
+React encounter React element with identical types and props , then the states of the react elements are internal n same 
+on event been associated to a react element (click on the 1 of them) will cause a state change but that state change is internal , so no ui updates on re-render also.
+SO USE PROPS +KEY to disguish each react element n minimal n optimal dom updation.
+
+event handler vs callbacks?
+usestate what it returns? a function ands default value for starter 
+
+
+
+
+
+JSX WORKING?
+
+boilerplate code?
+
+
